@@ -15,7 +15,7 @@ Key technical concepts explored:
 
 ## Tool
 
-Latest Version: `mega.nz/file/PHABmZgI#tSLXeXIX0pDONlnaMQeLLoxpagq0L_yDSSm83cpsO94`
+Latest Version: `mega.nz/file/jWYTlBAA#SMCtINSsqKqhBj2L6I8LjGEfLXUp0V3MvHanFosfvMo`
 
 ![](https://github.com/user-attachments/assets/59159aa9-23d6-420c-9c23-04e5a64fc007)
 
